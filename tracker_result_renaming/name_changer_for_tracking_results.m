@@ -11,12 +11,12 @@
 
 % Configuration
 % original tracker name
-original_tracker_name = 'RLBACF';
-original_path = 'D:\ACADEMIC\BENCHMARK\Self-developed.Final versions\ARCF-tracker-hand-iccv2019\results-mat\ARCF\';
+original_tracker_name = 'example_original_tracker_name';
+original_path = 'D:\example\original\tracker\path\';
 
 % target tracker name
-target_tracker_name = 'ARCF';
-target_path = 'D:\ACADEMIC\BENCHMARK\Self-developed.Final versions\ARCF-tracker-hand-iccv2019\results-mat\ARCF\';
+target_tracker_name = 'example_target_tracker_name';
+target_path = 'D:\example\target\tracker\path\';
 
 % whether original one should be deleted
 delete_original = 1; % 0 - no, 1 - yes
